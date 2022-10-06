@@ -1,4 +1,4 @@
-# Live_Class_Project1 -
+# Live_Class_Project3 -
 
 This assignment was given as a task in [ineuron's](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0) full stack javascript bootcamp by Hitesh Choudhary sir.
 
